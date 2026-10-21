@@ -1,0 +1,661 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/"/>
+    </url>
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/contributing/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/contributing/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/contributing/"/>
+    </url>
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/contributing/docs-workflow/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/contributing/docs-workflow/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/contributing/docs-workflow/"/>
+    </url>
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/explanation/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/explanation/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/explanation/"/>
+    </url>
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/explanation/architecture/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/explanation/architecture/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/explanation/architecture/"/>
+    </url>
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/explanation/console/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/explanation/console/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/explanation/console/"/>
+    </url>
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/explanation/imitation-learning/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/explanation/imitation-learning/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/explanation/imitation-learning/"/>
+    </url>
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/explanation/offline-pipeline/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/explanation/offline-pipeline/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/explanation/offline-pipeline/"/>
+    </url>
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/explanation/online-pipeline/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/explanation/online-pipeline/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/explanation/online-pipeline/"/>
+    </url>
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/explanation/models/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/explanation/models/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/explanation/models/"/>
+    </url>
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/explanation/models/five-networks/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/explanation/models/five-networks/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/explanation/models/five-networks/"/>
+    </url>
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/explanation/models/future-1-network/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/explanation/models/future-1-network/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/explanation/models/future-1-network/"/>
+    </url>
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/explanation/models/future-2-networks/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/explanation/models/future-2-networks/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/explanation/models/future-2-networks/"/>
+    </url>
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/explanation/models/future-4-networks/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/explanation/models/future-4-networks/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/explanation/models/future-4-networks/"/>
+    </url>
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/explanation/models/future-8-networks/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/explanation/models/future-8-networks/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/explanation/models/future-8-networks/"/>
+    </url>
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/explanation/models/future-rnn/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/explanation/models/future-rnn/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/explanation/models/future-rnn/"/>
+    </url>
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/explanation/models/pid-baseline/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/explanation/models/pid-baseline/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/explanation/models/pid-baseline/"/>
+    </url>
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/getting-started/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/getting-started/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/getting-started/"/>
+    </url>
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/getting-started/first-landing/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/getting-started/first-landing/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/getting-started/first-landing/"/>
+    </url>
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/getting-started/installation/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/getting-started/installation/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/getting-started/installation/"/>
+    </url>
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/how-to/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/how-to/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/how-to/"/>
+    </url>
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/how-to/add-new-model/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/how-to/add-new-model/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/how-to/add-new-model/"/>
+    </url>
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/how-to/convert-fgtape/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/how-to/convert-fgtape/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/how-to/convert-fgtape/"/>
+    </url>
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/how-to/fly-in-flightgear/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/how-to/fly-in-flightgear/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/how-to/fly-in-flightgear/"/>
+    </url>
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/how-to/open-console/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/how-to/open-console/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/how-to/open-console/"/>
+    </url>
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/how-to/replay-flight/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/how-to/replay-flight/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/how-to/replay-flight/"/>
+    </url>
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/how-to/train-networks/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/how-to/train-networks/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/how-to/train-networks/"/>
+    </url>
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/how-to/tune-weather/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/how-to/tune-weather/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/how-to/tune-weather/"/>
+    </url>
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/reference/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/reference/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/reference/"/>
+    </url>
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/reference/artifacts/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/reference/artifacts/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/reference/artifacts/"/>
+    </url>
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/reference/cli/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/reference/cli/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/reference/cli/"/>
+    </url>
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/reference/api/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/reference/api/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/reference/api/"/>
+    </url>
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/reference/api/ann/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/reference/api/ann/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/reference/api/ann/"/>
+    </url>
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/reference/api/fg_interface/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/reference/api/fg_interface/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/reference/api/fg_interface/"/>
+    </url>
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/reference/api/fly/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/reference/api/fly/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/reference/api/fly/"/>
+    </url>
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/reference/api/fly_pid/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/reference/api/fly_pid/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/reference/api/fly_pid/"/>
+    </url>
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/reference/api/pid/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/reference/api/pid/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/reference/api/pid/"/>
+    </url>
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/reference/api/project_paths/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/reference/api/project_paths/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/reference/api/project_paths/"/>
+    </url>
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/reference/api/replay/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/reference/api/replay/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/reference/api/replay/"/>
+    </url>
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/reference/data-schema/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/reference/data-schema/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/reference/data-schema/"/>
+    </url>
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/reference/data-schema/fgtape-columns/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/reference/data-schema/fgtape-columns/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/reference/data-schema/fgtape-columns/"/>
+    </url>
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/reference/data-schema/normalized-folds/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/reference/data-schema/normalized-folds/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/reference/data-schema/normalized-folds/"/>
+    </url>
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/reference/data-schema/pilot-flight-columns/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/reference/data-schema/pilot-flight-columns/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/reference/data-schema/pilot-flight-columns/"/>
+    </url>
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/reference/flightgear/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/reference/flightgear/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/reference/flightgear/"/>
+    </url>
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/reference/flightgear/aircraft-and-airport/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/reference/flightgear/aircraft-and-airport/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/reference/flightgear/aircraft-and-airport/"/>
+    </url>
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/reference/flightgear/launcher/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/reference/flightgear/launcher/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/reference/flightgear/launcher/"/>
+    </url>
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/reference/flightgear/udp-protocol/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/reference/flightgear/udp-protocol/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/reference/flightgear/udp-protocol/"/>
+    </url>
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/en/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/"/>
+    </url>
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/en/contributing/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/contributing/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/contributing/"/>
+    </url>
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/en/contributing/docs-workflow/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/contributing/docs-workflow/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/contributing/docs-workflow/"/>
+    </url>
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/en/explanation/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/explanation/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/explanation/"/>
+    </url>
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/en/explanation/architecture/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/explanation/architecture/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/explanation/architecture/"/>
+    </url>
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/en/explanation/console/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/explanation/console/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/explanation/console/"/>
+    </url>
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/en/explanation/imitation-learning/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/explanation/imitation-learning/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/explanation/imitation-learning/"/>
+    </url>
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/en/explanation/offline-pipeline/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/explanation/offline-pipeline/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/explanation/offline-pipeline/"/>
+    </url>
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/en/explanation/online-pipeline/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/explanation/online-pipeline/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/explanation/online-pipeline/"/>
+    </url>
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/en/explanation/models/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/explanation/models/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/explanation/models/"/>
+    </url>
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/en/explanation/models/five-networks/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/explanation/models/five-networks/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/explanation/models/five-networks/"/>
+    </url>
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/en/explanation/models/future-1-network/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/explanation/models/future-1-network/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/explanation/models/future-1-network/"/>
+    </url>
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/en/explanation/models/future-2-networks/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/explanation/models/future-2-networks/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/explanation/models/future-2-networks/"/>
+    </url>
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/en/explanation/models/future-4-networks/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/explanation/models/future-4-networks/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/explanation/models/future-4-networks/"/>
+    </url>
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/en/explanation/models/future-8-networks/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/explanation/models/future-8-networks/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/explanation/models/future-8-networks/"/>
+    </url>
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/en/explanation/models/future-rnn/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/explanation/models/future-rnn/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/explanation/models/future-rnn/"/>
+    </url>
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/en/explanation/models/pid-baseline/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/explanation/models/pid-baseline/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/explanation/models/pid-baseline/"/>
+    </url>
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/en/getting-started/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/getting-started/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/getting-started/"/>
+    </url>
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/en/getting-started/first-landing/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/getting-started/first-landing/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/getting-started/first-landing/"/>
+    </url>
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/en/getting-started/installation/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/getting-started/installation/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/getting-started/installation/"/>
+    </url>
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/en/how-to/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/how-to/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/how-to/"/>
+    </url>
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/en/how-to/add-new-model/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/how-to/add-new-model/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/how-to/add-new-model/"/>
+    </url>
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/en/how-to/convert-fgtape/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/how-to/convert-fgtape/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/how-to/convert-fgtape/"/>
+    </url>
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/en/how-to/fly-in-flightgear/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/how-to/fly-in-flightgear/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/how-to/fly-in-flightgear/"/>
+    </url>
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/en/how-to/open-console/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/how-to/open-console/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/how-to/open-console/"/>
+    </url>
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/en/how-to/replay-flight/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/how-to/replay-flight/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/how-to/replay-flight/"/>
+    </url>
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/en/how-to/train-networks/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/how-to/train-networks/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/how-to/train-networks/"/>
+    </url>
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/en/how-to/tune-weather/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/how-to/tune-weather/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/how-to/tune-weather/"/>
+    </url>
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/en/reference/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/reference/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/reference/"/>
+    </url>
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/en/reference/artifacts/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/reference/artifacts/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/reference/artifacts/"/>
+    </url>
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/en/reference/cli/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/reference/cli/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/reference/cli/"/>
+    </url>
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/en/reference/api/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/reference/api/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/reference/api/"/>
+    </url>
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/en/reference/api/ann/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/reference/api/ann/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/reference/api/ann/"/>
+    </url>
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/en/reference/api/fg_interface/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/reference/api/fg_interface/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/reference/api/fg_interface/"/>
+    </url>
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/en/reference/api/fly/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/reference/api/fly/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/reference/api/fly/"/>
+    </url>
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/en/reference/api/fly_pid/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/reference/api/fly_pid/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/reference/api/fly_pid/"/>
+    </url>
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/en/reference/api/pid/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/reference/api/pid/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/reference/api/pid/"/>
+    </url>
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/en/reference/api/project_paths/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/reference/api/project_paths/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/reference/api/project_paths/"/>
+    </url>
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/en/reference/api/replay/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/reference/api/replay/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/reference/api/replay/"/>
+    </url>
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/en/reference/data-schema/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/reference/data-schema/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/reference/data-schema/"/>
+    </url>
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/en/reference/data-schema/fgtape-columns/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/reference/data-schema/fgtape-columns/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/reference/data-schema/fgtape-columns/"/>
+    </url>
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/en/reference/data-schema/normalized-folds/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/reference/data-schema/normalized-folds/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/reference/data-schema/normalized-folds/"/>
+    </url>
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/en/reference/data-schema/pilot-flight-columns/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/reference/data-schema/pilot-flight-columns/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/reference/data-schema/pilot-flight-columns/"/>
+    </url>
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/en/reference/flightgear/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/reference/flightgear/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/reference/flightgear/"/>
+    </url>
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/en/reference/flightgear/aircraft-and-airport/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/reference/flightgear/aircraft-and-airport/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/reference/flightgear/aircraft-and-airport/"/>
+    </url>
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/en/reference/flightgear/launcher/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/reference/flightgear/launcher/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/reference/flightgear/launcher/"/>
+    </url>
+    <url>
+        <loc>https://akaer-landing-docs-three.vercel.app/en/reference/flightgear/udp-protocol/</loc>
+        <lastmod>2026-10-21</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://akaer-landing-docs-three.vercel.app/en/reference/flightgear/udp-protocol/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://akaer-landing-docs-three.vercel.app/reference/flightgear/udp-protocol/"/>
+    </url>
+</urlset>
